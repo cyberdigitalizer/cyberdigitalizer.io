@@ -46,11 +46,19 @@ height: 1000px;
     width: 600%;
 }
 
+<div class="mao-responsive">
+<iframe src="https://goo.gl/maps/hXXJW4GJqwPNxudt5
+width="80" height="400"
+frameborder="5" style="border:5;"
+allowfullscreen>
+</iframe>
+</div>
+
 .map-responsive{
      overflow:hidden;
      padding-bottom:56.25%;
      position:relative;
-     height:80;
+     height:400;
 }
 .map-responsive iframe{
     left:0;
